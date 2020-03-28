@@ -1,0 +1,3 @@
+.ipynb_checkpoints/
+notebooks/data/tables/*
+!notebooks/data/tables/re_tables-0001.json
