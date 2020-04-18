@@ -1,0 +1,809 @@
+0
+""
+term
+[minute_and_second_of_arc|moa]
+"games played"
+distance
+"saturday 7 july"
+[nea_salamis_famagusta_fc|nea]
+[olympiakos_nicosia|oly]
+"weight kgs"
+game
+locality
+"diameter, km"
+"tv broadcast"
+users
+sv
+"[facility_id|facility id]"
+language
+score
+parish
+"succeededby incumbent"
+15
+won
+[mass|mass]
+drw
+ref(s)
+drivers
+award
+"chart positions"
+configuration(s)
+member
+"[parliament_of_great_britain|parliament of great britain]"
+2
+shorts
+"performer (s)"
+"climate data for guernsey"
+n.
+7
+[list_of_formula_one_world_championship_points_scoring_systems|points]
+"2012-2013 team"
+pl.
+"[monarchy_of_belgium|belgian royalty]"
+"episode 4"
+"engine †"
+latitude
+"male commune councils members"
+"female commune councils members"
+isbn
+entrant
+hell
+year
+"chart (2005)"
+"other notes"
+"career span"
+writer
+1st
+"[parliament_of_northern_ireland|parliament of northern ireland]"
+"portrayed by"
+diameter
+7th
+"episode 6"
+[2011_brazilian_grand_prix|bra]
+gd
+innsbruck
+wins
+division
+"debt as %of value"
+5th
+"[copa_sudamericana|copa sudamericana]"
+number
+jan
+overall
+[2011_italian_grand_prix|ita]
+"number of players"
+period
+"intersecting roads"
+"100 m group (mm)"
+[2011_japanese_grand_prix|jpn]
+choice
+"friday 6 july"
+"deviation from normal"
+"[ordnance_survey_national_grid|os grid reference]"
+time
+[ael_limassol|ael]
+"[national_league_division_series|nl wild card]"
+td
+guys
+8
+diff
+[2007_ncaa_division_i_fbs_football_rankings|rank]
+"federal installations in maryland"
+[ac_omonia|omo]
+"label (cat#)"
+"album details"
+"directed by"
+cup
+avg.
+portrait
+"fcc info"
+"[list_of_new_york_mets_seasons|new york mets seasons]"
+6
+song
+"total seats"
+coaches#
+"international operator"
+silver
+"teams coached"
+gp
+"main cast"
+constituency
+"climate data for national observatory of athens (thiseio), 107 m asl (1971-2000),(1961-1990)rain"
+"series winner"
+[victorian_legislative_council|province]
+[barcelona|barcelona]
+parliament
+results
+"[basketball_at_the_southeast_asian_games|southeast asian games record]"
+postseason
+"[koleje_mazowieckie|koleje mazowieckie]"
+"political offices"
+attendance
+[2007_new_york_mets_season|2007]
+"[making_memories_of_us|making memories of us]"
+"winning constructor"
+[envoy_air|aa]
+"% change on year"
+[2011_canadian_grand_prix|can]
+"grambling state victories"
+municipality
+ties
+"win %"
+stage
+"goals against"
+league
+lost
+goals
+[geographic_coordinate_system|coordinates]
+"[ontario_general_election,_2003|ontario general election, 2003]"
+"election year/voter percentage"
+affiliation
+points
+[orbital_eccentricity|eccentricity]
+4
+position
+"% won"
+[2011_turkish_grand_prix|tur]
+minister
+"[leigh_mcclusky|leigh mcclusky]"
+"league cup"
+[error_(baseball)|e]
+city
+agreement
+"lowest winning scores"
+[atlanta|atlanta]
+"business positions"
+"production code"
+"[episcopal_church_(united_states)|episcopal church (usa) titles]"
+synopsis
+"qual 1"
+"wanderers (10)"
+"marcus vick's statistics"
+"date achieved or projected"
+"[janine_haines|janine haines]"
+nat
+3rd
+socks
+"community population"
+"operating income($m)"
+"height above sea level (m)"
+district/town
+"walter christensen"
+[2011_singapore_grand_prix|sin]
+translation
+to
+[apoel_fc|apoe]
+fs
+"debt as % of value"
+lowest
+"chart (1999)"
+[2011_german_grand_prix|ger]
+gold
+"tv program"
+"urban population"
+za27
+sho
+"years present"
+"[today_tonight|today tonight]"
+10
+"andré fernand anguilé"
+[alki_larnaca_f.c.|alk]
+p/sp%
+"court offices"
+sport
+comments
+[belgrade|belgrade]
+format
+engine
+"overall pick #"
+"[parliament_of_canada|parliament of canada]"
+"awards and achievements"
+ireland
+[doxa_katokopias_f.c.|dox]
+"women's singles"
+games
+[united_express|ua]
+aug
+winner
+laps
+"teams played for"
+[county_(united_states)|county]
+"kit manufacturer"
+"men's doubles"
+№
+"mixed doubles"
+sp
+"[2001_st._louis_cardinals_season|st. louis cardinals]"
+dates
+10th
+»
+country
+apr
+junctions
+"lswr numbers"
+quantity
+highest
+[alaska_airlines|as]
+"[christopher_collins|chris latta]"
+1
+nation
+tenure
+ab
+"[semi-major_axis|semimajor axis]"
+"[list_of_stanley_cup_champions|montreal wanderers stanley cup champions]"
+oct
+"afl team"
+k-point
+airport
+"national seats"
+"frequency domain x 2π (ω)"
+?
+club
+contract
+producer
+c
+"ben j. wolf"
+yds
+"episode 14"
+"record (nyy-nym)"
+"2007 series"
+"seiken densetsu: legend of mana ost tracklist"
+rank
+sep
+"record (nym-lad)"
+starts
+bischofshofen
+"overall victory"
+"area (sqmi)"
+"final score"
+"[orbital_period|orbital period]"
+ip
+catalogue
+"hill record"
+chart
+pf
+bronze
+length
+"[call_sign|call sign]"
+"village population"
+[bishop_(catholic_church)|bishop]
+"points/save %"
+"[mainstream_rock_(chart)|us main]"
+rider
+role
+pos
+from
+standing
+[games_behind|gb]
+2005
+fd
+chassis
+"[county_(united_states)|county or counties]"
+"saturday 9 july"
+2010
+"first year at vt"
+era
+order
+"media offices"
+season
+refs
+"professional record breakdown"
+"percentage of passes completed"
+"winner men"
+"weight cwt"
+"emanuele mignone"
+"maple leafs"
+[2011_malaysian_grand_prix|mal]
++/–
+ref.
+matches
+"web site"
+fulko
+"km from western end"
+save
+unit
+[vertex_(geometry)|vertices]
+"chart (1970)"
+"300 m group (mm)"
+organisation
+"frequency domain x(e iω )"
+car
+gender
+series
+"[american_le_mans_series|american le mans series]"
+"highest losing scores"
+"friday, october 19, 2001"
+"current status"
+tv
+tralles
+"city population"
+label
+years
+rounds
+"race drivers"
+"military offices"
+"series #"
+"[billboard_200|billboard 200]"
+"car no."
+colour
+3
+"<span style=""""> v</span> "
+point
+[uk_singles_chart|uk]
+rbi
+[2011_australian_grand_prix|aus]
+director
+9
+"pick #"
+losses
+outcome
+details
+opelt
+trainer
+day
+[pinyin|pinyin]
+actor
+level
+pct
+coach/player
+"all-stars (7)"
+«
+"[copa_libertadores|copa libertadores]"
+2nd
+"episode name"
+book
+"[uk_albums_chart|uk albums chart]"
+t
+no.
+manager
+"episode 13"
+"age, origin"
+tyre
+image
+contestant
+[win–loss_record_(pitching)|l]
+"[the_seekers'_greatest_hits|the best of the seekers]"
+"[adolph_john_ii,_count_palatine_of_kleeburg|adolph john ii]"
+[list_of_music_recording_certifications|sales/shipments]
+dec
+"national football conference"
+eliminated
+"[1998_chicago_cubs_season|chicago cubs]"
+"[adult_contemporary_(chart)|us ac]"
+single
+nov
+"friday 8 july"
+"friday october 12, 2001"
+result
+"qual 2"
+[orbital_inclination|orbital_inclination]
+"national team"
+6th
+opponent
+"1997 women's hockey champions trophy"
+*
+h
+"goals for"
+"first appearance / info"
+placing
+"area (km²)"
+[billboard_hot_100|us]
+8th
+service
+visitor
+"original air date"
+"joaquim domingues de oliveira"
+"[société_nationale_des_chemins_de_fer_luxembourgeois|chemins de fer luxembourgeois]"
+"[national_league_east|nl east]"
+"written by"
+"sales and certifications"
+"leader at the summit"
+"episode 15"
+"shirt sponsor"
+chapter
+[ethnikos_achna_fc|eth]
+report
+annual
+votes
+remarks
+"[fastest_lap|fastest lap]"
+"track name"
+finale
+"academic offices"
+"population (2001)"
+"[asbury_francis_lever|asbury f. lever]"
+cmp
+"highest temperature recorded or forecast"
+"women's doubles"
+iata
+album
+from–to
+klaproth
+coefficient
+"state league"
+"[ordnance_survey_national_grid|os grid ref]"
+destinations
+credit
+"race title"
+[apollon_limassol|apol]
+wanderers
+9th
+second
+"work center a"
+club/clubs
+"preceding station"
+victorias
+"political parties"
+kopff
+dob
+portfolio
+horse
+"[mariano_rajoy|mariano rajoy]"
+college
+"[ontario_general_election,_2007|ontario general election, 2007]"
+[electoral_districts_of_victoria|electorate]
+driver
+"metro population"
+[height_above_average_terrain|height]
+"value ($m)"
+event
+l
+title
+property
+"original name"
+"[united_states_house_of_representatives|united states house of representatives]"
+smcs
+"[dave_lee_travis|dave lee travis]"
+"chart (2007)"
+"club performance"
+people
+"following station"
+"[seaba_championship_for_women|southeast asian championship record]"
+"record (nym-sf)"
+pld
+"[stafford_carson|stafford carson]"
+[aris_limassol_f.c.|ari]
+"climate data for roseau, minnesota (1971–2000)"
+"companion (in order from star)"
+loser
+"episode 7"
+subject
+"4th place"
+"diplomatic posts"
+"peak chart positions"
+director(s)
+"episode 16 (test 2)"
+"episode 11"
+[list_of_formula_one_circuits|circuit]
+[geographic_names_information_system|gnis]
+cd
+"episode 3"
+res.
+steinheil
+party
+average
+"bosnian translation"
+round
+place
+hr
+"sporting positions"
+runner-up
+field
+[township|township]
+13
+"[campeonato_brasileiro_série_a|brazilian série a]"
+real/fictional
+"training ground or garrison town"
+class
+site
+[center_frequency|frequency]
+"revenue ($m)"
+11
+"grand prix"
+bpi
+"[howard_mills_iii|howard mills]"
+"[palatinate-kleeburg|count palatine of kleeburg]"
+conference
+exit
+[enosis_neon_paralimni_fc|enp]
+age
+"first year in current position"
+2006
+int
+record
+coach
+ga
+"sales total"
+[hit_(baseball)|h]
+2008
+[win–loss_record_(pitching)|w]
+third
+za12
+station
+"column links to corresponding team season"
+"north american release"
+lst
+"1989 women's champions trophy winners"
+region
+dimension
+"men's singles"
+"record (stl-nym)"
+"1994 series"
+awards
+"km from auckland"
+"season 4"
+"[henry_pellatt|henry pellatt]"
+total
+quarter
+a/gaa
+"precededby (none)"
+"hill name"
+credit/role
+"term in office"
+jun
+"garmisch- partenkirchen"
+shutouts
+"other prizes"
+[apop_kinyras_fc|apop]
+"episode 10"
+"season 2: excessive challenge"
+jul
+location
+"season 1: rash challenge"
+[county_(united_states)|counties]
+"peak position"
+%
+"[christian_iii,_count_palatine_of_zweibrücken|christian iii of birkenfeld]"
+"normal temperature"
+"quarterback(s) (games)"
+bowl/playoffs
+guernésiais
+job
+[world_geodetic_system|coordinates]
+pos.
+"wild card team"
+[varieties_of_chinese|chinese]
+"london, united kingdom"
+"sunday 8 july"
+team
+"round 2"
+"1995 women's champions trophy winners"
+"series name"
+"nfl team"
+opponent#
+att
+"legal offices"
+premiere
+owner
+amount
+"basic module"
+deficit
+[2005_new_york_mets_season|2005]
+[2011_korean_grand_prix|kor]
+grid
+"[roman_catholic_diocese_of_volterra|bishop of volterra]"
+"inverted form"
+ot/sol
+certification
+"chart (1983)"
+constructor
+so
+stadium/field
+"chart position"
+lng
+"time domain x[n]"
+w
+"home town"
+status
+"[basketball_at_the_asian_games|asian games record]"
+"[parliament_of_england|parliament of england]"
+"release date"
+"[1999_new_york_mets_season|new york mets]"
+type
+description
+"total points"
+"name (life)"
+"1991 women's champions trophy winners"
+landmark
+"charts (2007)"
+jockey
+"episode 2"
+"[ontario_general_election,_2011|ontario general election, 2011]"
+incorporated
+"episode 12"
+sk
+best
+"jorris o. wigen"
+ap°
+toronto
+females
+"u.s. viewers (millions)"
+at
+episodes
+competition
+"[ontario_general_election,_1999|ontario general election, 1999]"
+[2011_belgian_grand_prix|bel]
+rd.
+"miguel de lima valverde"
+population
+video
+g
+[turkish_cup|cup]
+"episode 8"
+"3rd place"
+"episode 9"
+category
+height
+"total prizes"
+australia
+p
+"episode 5"
+[music_recording_sales_certification|certifications]
+may
+"year cast"
+"free practice driver(s)"
+[2011_european_grand_prix|eur]
+[2011_abu_dhabi_grand_prix|abu]
+"[1987_st._louis_cardinals_season|st. louis cardinals]"
+"[nygaardsvold's_cabinet|nygaardsvold's cabinet]"
+"[john_s._lesmeister|john s. lesmeister]"
+[bishop_(catholic_church)|archbishop]
+state
+pts
+producer(s)
+"country (state/province)"
+div.
+km
+2009
+"climate data for nea filadelfeia"
+bank
+"first prizes"
+apps
+1993
+"[u.s._route_50|u.s. route 50]"
+name
+no
+"season #"
+"brand / users"
+fee
+"lowest winning scores since 1919"
+"[1909_echa_season|ottawa hc 1909]"
+assists
+huggins
+date
+"number of stacks to win"
+[effective_radiated_power|erp]
+loss
+champion
+[2011_chinese_grand_prix|chn]
+"[parliament_of_the_united_kingdom|parliament of the united kingdom]"
+"[fiba_asia_women's_championship|asian championship record]"
+5
+[2011_monaco_grand_prix|mon]
+[2011_spanish_grand_prix|esp]
+[senate_(nigeria)|senator]
+gb
+"winner women"
+4th
+"dvd releases"
+"bottom 2"
+[aek_larnaca_f.c.|aek]
+"[area|surface area]"
+"professional ratings"
+[run_(baseball)|r]
+"term expires"
+"episode 1"
+"games coached"
+"[francis_e._rives|francis e. rives]"
+"luís da silva brito"
+film
+pct.
+[delta_connection|dl]
+[list_of_north_american_broadcast_station_classes|class]
+month
+margin
+males
+since
+gf
+#
+[square|square]
+episode#
+od
+"[city_of_license|city of license]"
+"party political offices"
+"uninverted form"
+scorer
+"[list_of_north_dakota_state_treasurers|north dakota state treasurer]"
+mmcs
+player
+za8
+home/away
+"[list_of_north_dakota_insurance_commissioners|insurance commissioner of north dakota]"
+"u.s. ratings"
+shirt
+"losing team"
+riaa
+"record (nym-stl)"
+"winning team"
+"team name"
+surface
+gs
+[2011_indian_grand_prix|ind]
+"villages in maryland"
+[us_airways_express|us]
+[winning_percentage|pct.]
+"[copa_do_brasil|copa do brasil]"
+"operating income ($m)"
+drawn
+designation
+win
+weight
+oberstdorf
+"hill size"
+origin
+"1st maryland season"
+"2000 series"
+"depth, km"
+[2011_british_grand_prix|gbr]
+career
+goals/wins
+2007
+"work center b"
+girls
+"1993 women's champions trophy winners"
+"climate data for heiss island"
+"vadodara city officials"
+"[list_of_formula_one_grands_prix|grand prix]"
+"japanese release"
+first
+notes
+"[laurie_scott_(politician)|laurie scott]"
+"[catholic_church|catholic church titles]"
+home
+"[pole_position|pole position]"
+"episode 16 (test 3)"
+d
+[uefa|europe]
+"precededby none"
+technology
+time/retired
+[2011_hungarian_grand_prix|hun]
+"outstanding lead actress, resident musical"
+"term of office"
+"lowest since 1919"
+g/w
+"nominated work"
+"[.308_winchester|.308 winchester]"
+feb
+"name of the quarterback"
+"round 1"
+assists/gaa
+"percentage (%)"
+continental
+mar
+seasons
+d*
+cg
+note
+mile
+"sunday 10 july"
+tournament
+county
+batch
+"[1907_ecaha_season|montreal wanderers march 1907]"
+office
+method
+cabinet(s)
+cmp%
+"city, state"
+"[central_athens_(regional_unit)|central section]"
+rate
+playoffs
+[anorthosis_famagusta_fc|ano]
+"dante munerati"
+"winning driver"
+"episode 16 (test 1)"
+pa
+longitude
+"1st match"
+venue
